@@ -1,3 +1,2 @@
--Belajar HTML
 -Belajar CSS
 -Belajar GIT
